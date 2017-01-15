@@ -1,0 +1,14 @@
+{
+  "name": "hg-git-patch",
+  "version": "0.0.1",
+  "description": "Migrate commits from an Hg repo to a Git repo",
+  "main": "hg-git-patch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pacejet",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
